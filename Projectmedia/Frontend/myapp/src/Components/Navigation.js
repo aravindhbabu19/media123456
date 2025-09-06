@@ -6,7 +6,7 @@ const Navigation = () => {
     <div>
          <nav class="navbar navbar-white bg-black navbar-expand-lg ">
           <Link class='text-decoration-none' to={'/'}>
-              <img src='./Images/Media/rsmedia.jpg' height={80} width={80} class='rounded ms-2'/>
+              <img src='./Images/Media/rsmedia.jpg' alt=" height={80} width={80} class='rounded ms-2'/>
           </Link>
             <div class="container">
                 
